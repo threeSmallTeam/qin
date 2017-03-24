@@ -4,4 +4,10 @@ huihui
 =======
 
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+<<<<<<< HEAD
 >>>>>>> a45dfc3f49319e4abbfb128fe1610faf1d0599a8
+=======
+
+
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+>>>>>>> 27ea56320ccd65093b0bb2a89c6079f3000a296f
