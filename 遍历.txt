@@ -1,2 +1,7 @@
 王双啊 王双啊 王双啊 王双啊 王双啊 王双啊 王双啊 王双啊 hui
-hui
+<<<<<<< HEAD
+huihui
+=======
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+>>>>>>> a45dfc3f49319e4abbfb128fe1610faf1d0599a8
